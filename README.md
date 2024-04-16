@@ -1,8 +1,3 @@
----
-layout: main.njk
-title: Clare Brown - Interaction Designer
----
-
 <section>
   
   # Clare Brown
